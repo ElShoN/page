@@ -237,6 +237,26 @@ li#gamburger{
 	width: 300px;
 	color:#2c3e50;
 	text-align: center;
+	background: #d35400;
+}
+
+.send_mail__field {
+	margin: 10px 5px;
+	padding: 7px 10px;
+	border: none;
+	width: 90%;
+}
+
+.send_mail__checkbox{
+	margin: 20px auto;
+
+}
+
+.button_send{
+	background: #4dae96;
+}
+.button_send:hover{
+   background: #2a5d50;
 }
 
 /* Второй блок */
